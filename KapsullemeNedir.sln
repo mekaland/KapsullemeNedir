@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapsullemeNedir", "KapsullemeNedir\KapsullemeNedir.csproj", "{A85774F8-8BA0-4693-B782-340F281AB684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85774F8-8BA0-4693-B782-340F281AB684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85774F8-8BA0-4693-B782-340F281AB684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85774F8-8BA0-4693-B782-340F281AB684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85774F8-8BA0-4693-B782-340F281AB684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3A319D-9765-440F-A9C4-B19E890E5A12}
+	EndGlobalSection
+EndGlobal
